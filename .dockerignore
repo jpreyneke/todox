@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+.github
+
+# Environment
+.env
+.env.*
+
+# Documentation
+*.md
+README.md
+
+# Frontend (if exists)
+frontend/
+
+# IDE
+.vscode/
+.idea/
+
+# Go
+coverage.out
+*.test
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
